@@ -1,0 +1,6 @@
+pygame
+numpy
+opencv-python
+tensorflow
+mediapipe
+cvzone
